@@ -17,6 +17,12 @@ Drop-Down Lists
 
 VLOOKUP Function
 
-Absolute References
 
 
+"The questions I have analyzed in this project are as follows:
+
+Find out highly-consumed wine countries.
+ 
+Showcase the consumption trend of a specific country over time.
+ 
+Implement data validation to group the countries in a list based on the year."
